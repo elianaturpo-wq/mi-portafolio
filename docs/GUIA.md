@@ -66,7 +66,3 @@ git push -u origin mejora-documentacion
 ## Evidencia del trabajo
 
 ![Mi portafolio con listas y formato Markdown en VS Code](../img/captura.png)
-
-## Guía del proyecto
-
-- [Guía del Laboratorio 03](docs/GUIA.md)
